@@ -1,0 +1,4 @@
+{
+  "presets": ["@babel/preset-react"],
+  "extends": "@upstatement/eslint-config/react"
+}
