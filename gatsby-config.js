@@ -5,7 +5,7 @@ module.exports = {
     title: 'Sabari Ragavendra CK',
     description:
       'CK Sabari Ragavendra, a self-taught front-end developer based in Coimbatore, with a passion for bringing ideas to life on the web.',
-    siteUrl: 'https://sabaridev.com', // No trailing slash allowed!
+    siteUrl: 'https://mellow-crumble-e77bb5.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sabarirck_2001',
   },
